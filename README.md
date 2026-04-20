@@ -6,6 +6,16 @@ Built a virtual lab using Hyper-V with Windows Server 2022, Pfsense firewall, an
 ## Overview
 This project demonstrates the creation of a virtual lab environment using Hyper-V. The lab includes Windows Server 2022, a pfSense firewall, and a Windows 11 client.
 
+## Network Topology
+[ Internet ]
+      ↓
+[ pfSense Firewall ]
+   (WAN | LAN)
+        ↓
+[ Internal Switch ]
+   ├── Windows Server 2022
+   └── Windows 11 Client
+
 ## Objectives
 - Build a virtual network using Hyper-V
 - Configure pfSense as a firewall/router
