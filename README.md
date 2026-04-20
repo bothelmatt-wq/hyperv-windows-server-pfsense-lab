@@ -33,3 +33,20 @@ This project demonstrates the creation of a virtual lab environment using Hyper-
 - Network configuration
 - Firewall setup (pfSense)
 - Troubleshooting connectivity and DNS issues
+
+## Screenshots
+
+### Hyper-V Virtual Machines
+![Hyper-V](images/hyperv-vms.png)
+
+### Virtual Switch Configuration
+![Switch](images/hyperv-switch.png)
+
+### pfSense Dashboard
+![pfSense](images/pfsense-dashboard.png)
+
+### Windows 11 Connectivity Test
+![Ping](images/win11-ping.png)
+
+### Windows Server
+![Server](images/server-manager.png)
